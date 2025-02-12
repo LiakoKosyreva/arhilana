@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Alumni Sans Pinstripe";
+    src:url(../font/AlumniSansPinstripe-Italic.ttf)
+  }
+@font-face{
+    font-family: "Alumni Sans Pinstripe";
+    src: url(../font/AlumniSansPinstripe-Regular.ttf);
+}

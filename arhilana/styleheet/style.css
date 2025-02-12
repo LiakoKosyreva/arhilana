@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.background {
+    background: #CEC2B1;
+    transition: background-color 0.3s;
+}
+
+.image {
+    width: 1440px;
+    height: 2401px;
+}
+
+.btn {
+    padding: 10px 30px;
+    background-color: #fff;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    cursor: pointer;
+}
